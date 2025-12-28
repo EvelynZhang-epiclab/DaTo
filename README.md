@@ -5,9 +5,6 @@ This repository contains the core code for DaTo on Stable Diffusion 1.x, includi
 - Dynamic token pruning and attention patching
 - Multi-objective search for depth-wise cache strategies
 - Multi-objective search for per-step pruning ratios
-
-> **Note:** This is research code. Many paths in the scripts (e.g., datasets, output folders) are placeholders and should be modified to match your environment.
-
 ---
 
 ## 1. Environment Setup
