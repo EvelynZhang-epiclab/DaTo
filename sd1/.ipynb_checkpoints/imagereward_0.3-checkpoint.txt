@@ -1,0 +1,8 @@
+load checkpoint from /home/yuuweizhang/.cache/ImageReward/ImageReward.pt
+checkpoint loaded
+Loaded model 'ImageReward-v1.0' on cuda
+Number of prompts in txt: 30000
+Number of images in folder: 30000
+Starting prompt: A small dog is curled up on top of the shoes
+Ending prompt: a horse is standing in a green field
+Final average score: 0.42652572738181044
